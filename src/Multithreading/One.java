@@ -5,7 +5,7 @@ public class One extends Thread {
 	{
 		System.out.println("First Thread");
 		int i=0;
-		while(i<100)
+		while(i<50)
 
 		{
 			System.out.println("First34");
