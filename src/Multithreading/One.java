@@ -8,7 +8,7 @@ public class One extends Thread {
 		while(i<100)
 
 		{
-			System.out.println("First");
+			System.out.println("First34");
 			i++;
 		}
 	}
