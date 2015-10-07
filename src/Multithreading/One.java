@@ -8,7 +8,11 @@ public class One extends Thread {
 		while(i<100)
 
 		{
+<<<<<<< HEAD
 			System.out.println("First");
+=======
+			System.out.println("First34");
+>>>>>>> issue-1
 			i++;
 		}
 	}
